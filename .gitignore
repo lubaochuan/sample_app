@@ -15,3 +15,7 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Don't version sensitive keys in config/application.yml
+config/application.yml
+
