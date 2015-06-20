@@ -1,6 +1,8 @@
-# Ruby on Rails Tutorial: sample application
+# Get started
+0. Install correct ruby version `rvm use ruby-2.1.6
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+0. Install ruby gems `bundle install`
+
+0. Setup database `rake db:migrate`
+
+0. Start rails server `rails server`
