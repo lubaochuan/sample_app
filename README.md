@@ -5,4 +5,4 @@
 
 0. Setup database `rake db:migrate`
 
-0. Start rails server `rails server`
+0. Start rails server `rails server` or `rails s -p $PORT -b $IP` on cloud9
