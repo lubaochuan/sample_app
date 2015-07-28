@@ -19,3 +19,5 @@
 # Don't version sensitive keys in config/application.yml
 config/application.yml
 
+# Ignore uploaded test images.
+/public/uploads
